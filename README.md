@@ -26,8 +26,8 @@ MYPROJECTS/
 ├── index.html
 ├── script.js
 │
-└── css/
+└── css/(folder)
     └── style.css
 |
-|_ images/
+|_ images/(folder)
    |_#place all images
