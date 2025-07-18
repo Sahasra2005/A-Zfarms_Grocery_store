@@ -31,3 +31,8 @@ MYPROJECTS/
 |
 |_ images/(folder)
    |_#place all images
+
+   Here are the output images 
+
+   <img width="1904" height="922" alt="image" src="https://github.com/user-attachments/assets/3d1ca5a2-6536-4de1-945a-f8d11c030466" />
+
