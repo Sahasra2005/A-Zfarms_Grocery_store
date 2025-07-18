@@ -1,4 +1,4 @@
-# A-Zfarms_Grocery_store(website)
+# A-Zfarms_Grocery_store(Static website)
  Project Setup Instructions:
  Follow the steps below to set up your project structure:
 
